@@ -9,6 +9,11 @@ Software used:
 * Dbeaver 
 * Tableau Public
 
+# Repository Layout 
+* PostGreSQL_Queries (SQL Scripts and the Extracted tables
+* Super (the supermarket dataset downloaded from Kaggle)
+* Tableau (Holds the final Extracted Tableau project)
+
 # 1) Sourcing Data:
 
 Utilized the Open-access dataset “Superstore Sales Dataset” found on Kaggle under the GPL 2 license. https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
