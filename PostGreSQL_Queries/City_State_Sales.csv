@@ -1,0 +1,601 @@
+"city","state","total_orders","total_revenue"
+New York City,New York,439,252462.52
+Los Angeles,California,378,173420.34
+Seattle,Washington,210,116106.31
+San Francisco,California,261,109041.18
+Philadelphia,Pennsylvania,262,108841.77
+Houston,Texas,186,63956.13
+Chicago,Illinois,166,47820.133
+San Diego,California,88,47521.05
+Detroit,Michigan,53,42446.94
+Jacksonville,Florida,38,39133.34
+San Antonio,Texas,27,21843.53
+Newark,Delaware,28,20319.982
+Dallas,Texas,79,20127.947
+Lafayette,Indiana,6,19624.508
+Atlanta,Georgia,17,17197.842
+Minneapolis,Minnesota,13,16870.541
+Springfield,Virginia,25,16628.531
+Providence,Rhode Island,13,15980.652
+Columbus,Ohio,55,15900.794
+Henderson,Kentucky,17,15661.01
+Jackson,Michigan,14,15420.036
+Springfield,Missouri,14,15051.382
+Lakewood,New Jersey,10,14843.1
+Columbus,Georgia,39,14801.37
+Arlington,Virginia,21,14366.762
+Charlotte,North Carolina,23,13450.986
+Burlington,North Carolina,7,12681.282
+Denver,Colorado,17,12198.796
+Phoenix,Arizona,29,11000.255
+Columbia,Maryland,9,10962.351
+Milwaukee,Wisconsin,22,10469.039
+North Las Vegas,Nevada,7,9801.002
+Buffalo,New York,7,9063.495
+Burlington,Vermont,6,8929.371
+Miami,Florida,33,8647.827
+Long Beach,New York,21,8434.101
+Lancaster,Ohio,15,8202.626
+Newark,Ohio,16,8128.0693
+Columbus,Indiana,16,7960.399
+Fresno,California,11,7888.5293
+Yonkers,New York,6,7657.6655
+Aurora,Illinois,20,7572.969
+Jackson,Mississippi,18,7426.6094
+Sacramento,California,8,7311.278
+Louisville,Kentucky,17,7275.389
+Tallahassee,Florida,9,7250.6694
+Huntsville,Texas,10,6710.617
+Roswell,Georgia,9,6652.3193
+Richmond,Kentucky,13,6646.159
+Fort Worth,Texas,12,6602.707
+Oklahoma City,Oklahoma,11,6596.8203
+Wilmington,Delaware,9,6553.8984
+Tucson,Arizona,13,6313.0166
+Omaha,Nebraska,14,6312.5303
+Columbia,South Carolina,11,6168.1597
+Baltimore,Maryland,21,6156.8423
+Lawrence,Massachusetts,15,6109.0615
+San Jose,California,20,6071.2285
+Nashville,Tennessee,16,6070.863
+Austin,Texas,18,6057.9814
+Rochester,New York,20,6017.13
+Chesapeake,Virginia,10,5996.7197
+Oakland,California,13,5964.4175
+Memphis,Tennessee,14,5942.341
+Richmond,Indiana,13,5876.45
+Arlington,Texas,10,5847.773
+Springfield,Oregon,15,5761.264
+Virginia Beach,Virginia,11,5752.1294
+Everett,Massachusetts,8,5661.8784
+Lakeland,Florida,6,5606.886
+Anaheim,California,7,5600.548
+Jacksonville,North Carolina,23,5579.8555
+Tulsa,Oklahoma,13,5556.9697
+Franklin,Massachusetts,9,5534.5586
+Alexandria,Virginia,6,5519.5703
+Clinton,Maryland,10,5514.2515
+Mobile,Alabama,4,5462.99
+Madison,Wisconsin,4,5346.79
+Lafayette,Louisiana,9,5319.7705
+Midland,Michigan,5,5291.5117
+Cleveland,Ohio,19,5281.503
+Tampa,Florida,14,5196.0815
+Columbia,Tennessee,10,5162.774
+Richmond,Virginia,13,5141.2593
+Concord,North Carolina,5,5111.8438
+Brentwood,California,6,5090.1143
+Morristown,New Jersey,5,5033.1
+Fairfield,Connecticut,12,4935.5767
+Fort Lauderdale,Florida,11,4855.213
+Round Rock,Texas,3,4854.053
+Lowell,Massachusetts,7,4837.93
+Indianapolis,Indiana,11,4834.0996
+Louisville,Colorado,11,4803.896
+Franklin,Wisconsin,5,4774.25
+Jamestown,New York,2,4708.79
+Great Falls,Montana,3,4605.58
+Florence,Kentucky,3,4541.8
+Dover,New Hampshire,5,4428.9536
+Harrisonburg,Virginia,4,4388.71
+Springfield,Ohio,17,4386.635
+Toledo,Ohio,15,4358.935
+Raleigh,North Carolina,12,4312.6924
+Lakeville,Minnesota,5,4260.9497
+Gilbert,Arizona,5,4172.3823
+Pasadena,California,11,4112.688
+Aurora,Colorado,15,4083.5103
+Watertown,New York,7,4044.998
+Mesa,Arizona,14,4037.74
+Knoxville,Tennessee,10,3928.166
+Cranston,Rhode Island,4,3921.9856
+Kenosha,Wisconsin,3,3906.7297
+Portland,Oregon,14,3905.1812
+Santa Barbara,California,4,3896.048
+Long Beach,California,10,3874.7417
+Oceanside,New York,8,3851.1257
+Parma,Ohio,3,3815.788
+Bellingham,Washington,2,3790.2402
+Amarillo,Texas,7,3773.0625
+Fayetteville,Arkansas,8,3742.81
+Plainfield,New Jersey,6,3727.9202
+Montgomery,Alabama,6,3722.73
+Colorado Springs,Colorado,9,3694.0093
+Westminster,California,3,3583.4858
+Little Rock,Arkansas,6,3560.3499
+El Paso,Texas,10,3546.0637
+Plano,Texas,8,3530.3745
+Inglewood,California,4,3479.328
+Des Moines,Washington,5,3454.438
+Decatur,Alabama,7,3374.8198
+Santa Ana,California,8,3366.3098
+Newport News,Virginia,5,3321.9502
+Burbank,California,1,3247.158
+Fayetteville,North Carolina,12,3183.1157
+Troy,Ohio,8,3180.535
+Rockford,Illinois,8,3166.2285
+Torrance,California,2,3132.2678
+Noblesville,Indiana,2,3091.18
+Waynesboro,Virginia,3,3058.77
+Marion,Ohio,8,3010.9858
+Orem,Utah,5,2994.088
+Columbia,Missouri,3,2990.0398
+Decatur,Illinois,8,2959.2969
+Marietta,Georgia,3,2938.62
+Glendale,Arizona,13,2917.8652
+Jonesboro,Arkansas,5,2915.32
+Redlands,California,4,2891.0208
+Washington,District of Columbia,4,2865.02
+Concord,New Hampshire,10,2827.63
+Provo,Utah,4,2761.2334
+Akron,Ohio,9,2724.2437
+Hampton,Virginia,5,2722.26
+Concord,California,6,2602.9282
+Hempstead,New York,4,2589.586
+Beverly,Massachusetts,1,2583.1902
+Sparks,Nevada,3,2561.96
+Huntington Beach,California,5,2527.82
+Edmonds,Washington,5,2523.692
+Fairfield,Ohio,8,2512.217
+Huntsville,Alabama,7,2484.3699
+Medina,Ohio,3,2477.7222
+Pasadena,Texas,9,2477.458
+Broken Arrow,Oklahoma,3,2439.53
+Warwick,Rhode Island,4,2426.8398
+Independence,Missouri,2,2417.3699
+Greensboro,North Carolina,8,2406.7798
+Dublin,Ohio,5,2379.16
+Hialeah,Florida,10,2338.9487
+Paterson,New Jersey,6,2243.2097
+Albuquerque,New Mexico,7,2220.16
+Clarksville,Tennessee,3,2217.73
+Roseville,Minnesota,2,2215.52
+Pasco,Washington,2,2201.112
+Pleasant Grove,Utah,2,2138.178
+Gresham,Oregon,4,2133.424
+Smyrna,Georgia,4,2130.0
+Manchester,Connecticut,4,2126.28
+Mount Vernon,New York,5,2119.632
+Greenville,North Carolina,5,2117.8298
+Jackson,Tennessee,5,2117.2122
+San Gabriel,California,1,2061.01
+Westland,Michigan,3,2057.976
+Chico,California,3,2050.178
+Carrollton,Texas,7,2047.5339
+Salem,Virginia,6,2039.5502
+Highland Park,Illinois,3,2035.096
+Spokane,Washington,5,2027.918
+Lorain,Ohio,5,2015.1108
+Des Moines,Iowa,5,2008.8401
+Florence,Alabama,3,1997.35
+Sandy Springs,Georgia,4,1997.0299
+Chester,Pennsylvania,4,1968.4791
+Redondo Beach,California,3,1959.8031
+Rochester,Minnesota,8,1957.4001
+Riverside,California,9,1944.2461
+Apple Valley,California,3,1915.0812
+Belleville,New Jersey,4,1891.5999
+Henderson,Nevada,2,1888.058
+Bowling Green,Ohio,4,1865.565
+Las Vegas,Nevada,8,1834.02
+Georgetown,Kentucky,3,1786.4202
+Auburn,Alabama,3,1766.83
+Trenton,Michigan,4,1765.1951
+Monroe,Louisiana,6,1757.3701
+Lakewood,Ohio,13,1756.3241
+Evanston,Illinois,3,1753.7991
+Orlando,Florida,6,1740.0798
+Hattiesburg,Mississippi,3,1722.84
+Muskogee,Oklahoma,2,1721.7001
+Perth Amboy,New Jersey,4,1717.08
+Pembroke Pines,Florida,4,1714.3754
+Bethlehem,Pennsylvania,2,1689.634
+Dubuque,Iowa,2,1687.2999
+Pueblo,Colorado,4,1686.938
+Appleton,Wisconsin,2,1671.31
+Greenwood,Indiana,2,1665.05
+Eau Claire,Wisconsin,4,1645.65
+Lake Forest,California,2,1625.5359
+Cincinnati,Ohio,12,1611.9761
+Lansing,Michigan,3,1610.2858
+Dearborn,Michigan,2,1603.3099
+Cheyenne,Wyoming,1,1603.136
+Suffolk,Virginia,4,1597.9
+Lakewood,California,5,1583.6829
+Passaic,New Jersey,1,1562.0859
+Oxnard,California,4,1558.1
+Meriden,Connecticut,5,1550.6799
+Lawrence,Indiana,6,1545.13
+Pharr,Texas,2,1540.708
+Miramar,Florida,3,1531.192
+Lehi,Utah,2,1516.726
+Des Plaines,Illinois,2,1493.2119
+Pomona,California,5,1482.502
+Asheville,North Carolina,6,1475.376
+Fairfield,California,2,1470.584
+Camarillo,California,2,1467.5175
+Scottsdale,Arizona,7,1466.307
+Eugene,Oregon,1,1465.032
+Hackensack,New Jersey,2,1456.16
+Southaven,Mississippi,2,1455.39
+Plantation,Florida,3,1436.8359
+Athens,Georgia,4,1434.7201
+Bossier City,Louisiana,2,1417.1799
+Tamarac,Florida,2,1413.5099
+Salem,Oregon,9,1404.6952
+Tigard,Oregon,3,1393.782
+Saint Charles,Illinois,3,1388.7101
+Auburn,New York,6,1384.158
+Bakersfield,California,8,1377.29
+Norman,Oklahoma,2,1351.33
+Kent,Washington,3,1351.2539
+Pocatello,Idaho,3,1344.9419
+Peoria,Arizona,5,1341.352
+Saint Cloud,Minnesota,1,1331.8201
+Troy,New York,6,1326.5559
+Waterbury,Connecticut,5,1326.06
+Carol Stream,Illinois,1,1305.8099
+Superior,Wisconsin,2,1299.73
+Brownsville,Texas,4,1292.2268
+Richardson,Texas,1,1288.464
+Naperville,Illinois,5,1288.303
+Moreno Valley,California,5,1262.466
+Renton,Washington,1,1242.632
+South Bend,Indiana,1,1238.3301
+Stockton,California,5,1227.6
+Vallejo,California,3,1221.4099
+Hesperia,California,3,1213.1715
+Monroe,North Carolina,6,1213.064
+Lancaster,Pennsylvania,8,1211.3949
+Wheeling,West Virginia,2,1209.824
+Bangor,Maine,2,1164.45
+Danville,California,1,1158.882
+Middletown,Connecticut,7,1154.6101
+Twin Falls,Idaho,1,1148.806
+Sioux Falls,South Dakota,3,1137.4199
+Fremont,Nebraska,7,1119.0101
+Costa Mesa,California,4,1117.5339
+Rio Rancho,New Mexico,1,1114.192
+Boise,Idaho,3,1094.47
+Hollywood,Florida,8,1070.474
+Tempe,Arizona,6,1070.3021
+Parker,Colorado,2,1067.942
+Chandler,Arizona,5,1067.403
+Florence,South Carolina,4,1064.5701
+Lawton,Oklahoma,2,1057.49
+Dearborn Heights,Michigan,2,1051.5701
+Redmond,Oregon,4,1043.027
+Chula Vista,California,3,1041.62
+Laredo,Texas,4,1024.3401
+La Porte,Indiana,3,1021.33997
+Olympia,Washington,3,1020.448
+Grand Prairie,Texas,7,1012.48596
+Chattanooga,Tennessee,6,988.803
+New Rochelle,New York,4,977.658
+Odessa,Texas,4,976.124
+Bloomington,Illinois,6,963.94
+Milford,Connecticut,3,961.74
+Edmond,Oklahoma,1,959.55
+Franklin,Tennessee,6,948.228
+Avondale,Arizona,3,946.808
+Quincy,Massachusetts,5,946.175
+Fort Collins,Colorado,5,935.252
+Fargo,North Dakota,2,919.91
+Longmont,Colorado,2,915.088
+Apopka,Florida,3,904.5541
+Olathe,Kansas,2,895.79004
+Gastonia,North Carolina,1,895.05994
+Deltona,Florida,4,893.24005
+Elmhurst,Illinois,2,891.62805
+Ann Arbor,Michigan,2,889.273
+Maple Grove,Minnesota,2,882.87
+Durham,North Carolina,5,879.96
+League City,Texas,2,875.3679
+Reading,Pennsylvania,4,873.7121
+Mcallen,Texas,4,866.716
+El Cajon,California,2,865.61597
+Woodstock,Illinois,3,857.25
+Allentown,Pennsylvania,2,853.252
+Smyrna,Tennessee,4,848.579
+Yuma,Arizona,4,840.865
+Revere,Massachusetts,3,833.2601
+Buffalo Grove,Illinois,2,831.399
+La Crosse,Wisconsin,2,830.41
+Wichita,Kansas,5,825.27
+Coral Springs,Florida,4,824.99194
+Canton,Michigan,2,818.13
+York,Pennsylvania,2,817.978
+Bristol,Connecticut,3,814.57996
+Temecula,California,1,808.666
+Salt Lake City,Utah,5,802.776
+Broomfield,Colorado,2,793.504
+Texas City,Texas,2,790.97205
+Mishawaka,Indiana,2,776.24
+Mission Viejo,California,3,775.98596
+Johnson City,Tennessee,3,765.84796
+Thornton,Colorado,3,765.248
+Saint Petersburg,Florida,5,753.1841
+Kissimmee,Florida,1,751.984
+Wilmington,North Carolina,9,743.1619
+Wheeling,Illinois,2,737.14197
+Port Arthur,Texas,3,737.0528
+Roseville,California,7,734.77594
+Salinas,California,4,728.89105
+Farmington,New Mexico,3,718.72
+Saint Peters,Missouri,1,697.16
+Mentor,Ohio,1,693.13
+Vancouver,Washington,3,686.836
+Park Ridge,Illinois,3,685.0
+Texarkana,Arkansas,2,654.24005
+San Angelo,Texas,2,650.636
+Vineland,New Jersey,4,647.966
+Reno,Nevada,3,644.062
+Roseville,Michigan,4,638.33
+Sunnyvale,California,2,636.20996
+Woodbury,Minnesota,2,607.64996
+Overland Park,Kansas,3,606.91003
+Waco,Texas,4,606.1072
+Irving,Texas,5,605.5
+Bloomington,Indiana,4,603.8
+Lubbock,Texas,4,592.56396
+Encinitas,California,2,591.981
+Oak Park,Michigan,1,580.86
+Utica,New York,3,575.05
+Skokie,Illinois,5,568.83203
+Mansfield,Texas,2,558.877
+Lake Charles,Louisiana,2,547.41003
+Mount Pleasant,South Carolina,1,545.94
+Morgan Hill,California,1,545.01
+Moorhead,Minnesota,2,543.86
+Rome,New York,3,534.85205
+Green Bay,Wisconsin,4,527.31995
+Hoover,Alabama,2,525.85
+Freeport,New York,4,523.33
+Westfield,New Jersey,4,519.72
+Cary,North Carolina,3,505.20798
+Arvada,Colorado,1,503.4
+Coon Rapids,Minnesota,1,503.13
+Cambridge,Massachusetts,3,502.09003
+Peoria,Illinois,4,501.48
+Oceanside,California,5,499.612
+Pearland,Texas,2,494.996
+Lebanon,Tennessee,3,488.896
+Missoula,Montana,1,487.984
+Murrieta,California,1,484.65
+Lancaster,California,4,477.44397
+Harlingen,Texas,2,471.40402
+Rockville,Maryland,3,469.77002
+Boynton Beach,Florida,4,469.58502
+Caldwell,Idaho,1,455.63202
+Manteca,California,2,452.182
+Dover,Delaware,6,449.11996
+Whittier,California,1,444.768
+Helena,Montana,2,443.84
+Bristol,Tennessee,4,436.602
+Andover,Massachusetts,1,435.84998
+Warner Robins,Georgia,2,434.8
+Vacaville,California,1,423.28
+Carlsbad,New Mexico,5,419.34
+Norwich,Connecticut,4,414.04
+Covington,Washington,2,413.68
+Summerville,South Carolina,1,406.94
+Gaithersburg,Maryland,1,405.91998
+Saginaw,Michigan,2,395.86002
+Grand Rapids,Michigan,5,392.59
+Lincoln Park,Michigan,2,387.60202
+Wilson,North Carolina,3,368.732
+La Mesa,California,1,367.53
+Normal,Illinois,1,366.744
+Macon,Georgia,4,364.01
+Taylor,Michigan,3,353.69998
+Tyler,Texas,2,347.206
+Kent,Ohio,3,346.302
+Orland Park,Illinois,1,339.96
+Murfreesboro,Tennessee,4,337.333
+Clifton,New Jersey,1,336.82
+Redding,California,1,333.576
+Quincy,Illinois,6,330.284
+Meridian,Idaho,2,329.052
+Hamilton,Ohio,3,328.224
+Modesto,California,3,326.15
+Oswego,Illinois,1,321.978
+Hendersonville,Tennessee,2,319.53802
+Visalia,California,2,318.78
+Wausau,Wisconsin,1,317.48
+Garden City,Kansas,3,312.38004
+West Jordan,Utah,2,311.85
+Conway,Arkansas,1,301.96
+Holyoke,Massachusetts,1,301.96
+College Station,Texas,2,291.042
+Laguna Niguel,California,3,290.983
+Allen,Texas,2,290.206
+Saint Louis,Missouri,4,285.96
+North Charleston,South Carolina,2,284.25
+Lake Elsinore,California,1,283.92
+Ontario,California,1,283.92
+Logan,Utah,1,280.276
+Cedar Rapids,Iowa,1,278.4
+Palm Coast,Florida,3,274.428
+Manhattan,Kansas,1,273.96
+Daytona Beach,Florida,2,272.3315
+Saint Charles,Missouri,3,270.94
+Haltom City,Texas,2,269.328
+East Point,Georgia,1,268.4
+Woodland,California,2,264.662
+Murray,Kentucky,2,264.62
+Draper,Utah,2,263.65
+San Bernardino,California,3,256.136
+West Allis,Wisconsin,1,250.48001
+Port Saint Lucie,Florida,3,248.95
+Hot Springs,Arkansas,2,245.83
+Delray Beach,Florida,2,242.536
+Kirkwood,Missouri,1,241.34
+Thousand Oaks,California,4,238.80399
+New Bedford,Massachusetts,4,235.97
+Rancho Cucamonga,California,4,231.852
+Malden,Massachusetts,2,228.38
+Bedford,Texas,2,226.256
+Sanford,Florida,1,225.54599
+Santa Clara,California,3,222.192
+Marion,Iowa,2,222.16
+Corpus Christi,Texas,3,220.54404
+Bolingbrook,Illinois,3,218.308
+Leominster,Massachusetts,2,217.48999
+Freeport,Illinois,2,215.81999
+Eagan,Minnesota,3,214.28
+Pine Bluff,Arkansas,1,212.91
+Bowling Green,Kentucky,2,211.81
+Orange,New Jersey,5,211.11
+New Albany,Indiana,1,209.55
+Marlborough,Massachusetts,1,206.64001
+Woonsocket,Rhode Island,3,195.55
+Saint Paul,Minnesota,2,192.82999
+Bayonne,New Jersey,1,183.40001
+Tuscaloosa,Alabama,2,175.70001
+Elkhart,Indiana,1,171.43
+Gulfport,Mississippi,3,166.5
+Gladstone,Missouri,1,164.34
+Coachella,California,1,163.55
+Glenview,Illinois,1,158.376
+Rapid City,South Dakota,1,152.64001
+Laurel,Maryland,1,152.59
+Champaign,Illinois,1,151.96
+Thomasville,North Carolina,2,151.292
+Urbandale,Iowa,2,149.12
+Commerce City,Colorado,1,146.352
+Murray,Utah,2,146.318
+Pico Rivera,California,1,145.9
+Cottage Grove,Minnesota,1,144.36
+Beaumont,Texas,2,143.524
+The Colony,Texas,2,142.16
+West Palm Beach,Florida,3,141.328
+Apple Valley,Minnesota,2,137.94
+Holland,Michigan,2,137.86
+Coppell,Texas,2,135.936
+Homestead,Florida,2,132.552
+Rochester Hills,Michigan,1,132.52
+Citrus Heights,California,1,129.39
+Englewood,Colorado,1,124.056
+Grove City,Ohio,1,123.588005
+Cedar Hill,Texas,2,122.376
+Longview,Washington,2,119.21
+Palatine,Illinois,1,116.312
+Santa Maria,California,1,115.44
+Linden,New Jersey,1,115.36
+Conroe,Texas,1,111.672
+Clovis,New Mexico,1,111.42
+Sterling Heights,Michigan,3,110.04
+San Marcos,Texas,1,108.444
+Lewiston,Maine,1,106.08
+Bellevue,Washington,5,103.622
+Charlottesville,Virginia,2,102.61
+Marysville,Washington,2,102.18
+Santa Fe,New Mexico,2,100.92
+Las Cruces,New Mexico,3,98.77
+Frankfort,Illinois,2,97.631996
+Melbourne,Florida,1,95.616
+Escondido,California,3,94.548
+Pompano Beach,Florida,2,90.44
+Medford,Oregon,3,90.218
+San Clemente,California,1,90.058
+Kenner,Louisiana,1,89.32001
+Bartlett,Tennessee,1,88.96
+Edinburg,Texas,2,88.276
+Hillsboro,Oregon,2,87.838
+Jefferson City,Missouri,1,86.62
+New Castle,Indiana,1,84.61
+Sheboygan,Wisconsin,1,79.740005
+Sierra Vista,Arizona,2,76.072
+San Mateo,California,1,75.18
+Shelton,Connecticut,1,73.33
+Littleton,Colorado,1,72.294
+Owensboro,Kentucky,2,71.18
+Garland,Texas,3,67.704
+Bryan,Texas,1,65.840004
+Coral Gables,Florida,1,64.248
+Boca Raton,Florida,2,63.008
+Frisco,Texas,2,57.503998
+Burlington,Iowa,2,57.43
+Lindenhurst,New York,1,55.48
+Redmond,Washington,2,55.23
+Waukesha,Wisconsin,1,54.5
+Bridgeton,New Jersey,1,52.410004
+Mesquite,Texas,3,52.147995
+Yucaipa,California,1,50.8
+La Quinta,California,1,46.32
+Hagerstown,Maryland,1,43.8
+Bozeman,Montana,1,43.66
+Danville,Illinois,1,43.372
+Redwood City,California,1,41.904
+Grapevine,Texas,1,41.528
+Hickory,North Carolina,2,40.764
+Rogers,Arkansas,1,40.41
+Nashua,New Hampshire,2,35.940002
+Royal Oak,Michigan,2,35.34
+Niagara Falls,New York,1,34.992
+Goldsboro,North Carolina,1,34.944
+Davis,California,1,32.4
+East Orange,New Jersey,1,31.8
+Greeley,Colorado,1,30.352
+Waterloo,Iowa,1,30.32
+Cuyahoga Falls,Ohio,3,29.094
+Montebello,California,1,27.88
+Danbury,Connecticut,1,27.46
+Aberdeen,South Dakota,1,25.5
+Atlantic City,New Jersey,1,23.36
+Tinley Park,Illinois,1,22.288
+Bullhead City,Arizona,1,22.288
+North Miami,Florida,2,22.128
+Dublin,California,1,22.0
+Loveland,Colorado,3,20.964
+Altoona,Pennsylvania,1,20.451
+Antioch,California,1,19.44
+Norfolk,Nebraska,1,17.43
+Mount Pleasant,Michigan,1,17.14
+Portage,Indiana,1,16.28
+Grand Island,Nebraska,1,15.96
+Margate,Florida,1,15.552
+New Brunswick,New Jersey,1,14.77
+Arlington Heights,Illinois,1,14.112
+Chapel Hill,North Carolina,1,14.016
+Rock Hill,South Carolina,1,11.85
+Baytown,Texas,1,10.368
+Oak Park,Illinois,1,10.192
+Iowa City,Iowa,1,9.99
+Lewiston,Idaho,1,9.584
+Romeoville,Illinois,1,8.952
+Billings,Montana,1,8.288
+Port Orange,Florida,1,7.824
+Deer Park,Texas,1,6.924
+Missouri City,Texas,1,6.37
+Keller,Texas,1,6.0
+Layton,Utah,1,4.96
+Springdale,Arkansas,1,4.3
+Auburn,Washington,1,4.18
+Everett,Washington,1,3.856
+San Luis Obispo,California,1,3.62
+Ormond Beach,Florida,1,2.808
+Pensacola,Florida,1,2.214
+Jupiter,Florida,1,2.064
+Elyria,Ohio,1,1.824
+Abilene,Texas,1,1.392
